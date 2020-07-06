@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: ipyleaflet
+Version: 0.13.1
+Summary: A Jupyter widget for dynamic Leaflet maps
+Home-page: https://github.com/jupyter-widgets/ipyleaflet
+Author: Project Jupyter
+Author-email: jupyter@googlegroups.com
+License: MIT License
+Keywords: ipython,jupyter,widgets,graphics,GIS
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Requires-Dist: ipywidgets (<8,>=7.5.0)
+Requires-Dist: traittypes (<3,>=0.2.1)
+Requires-Dist: branca (<0.5,>=0.3.1)
+
+A Jupyter widget for dynamic Leaflet maps
+
+
